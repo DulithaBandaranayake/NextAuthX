@@ -39,8 +39,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/nextjs-auth-system.git
-   cd nextjs-auth-system
+   git clone https://github.com/DulithaBandaranayake/NextAuthX.git
+   cd NextAuthX
    ```
 
 2. **Install dependencies** (use `--force` if necessary):
